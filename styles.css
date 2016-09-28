@@ -1,0 +1,10 @@
+.grid{
+  background-color: cornflowerblue;
+  height: 90vh;
+  border: 1px solid cornflowerblue;
+  border-radius: 5px;
+}
+*{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white; 
+}
