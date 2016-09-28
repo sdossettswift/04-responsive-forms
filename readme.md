@@ -1,4 +1,3 @@
-DAY TWO
 This assignment serves to reinforce HTML forms and relevant tags, form attributes, CSS layouts and techniques, as well as transitions.
 
 <h1> Objectives </h1>
@@ -28,7 +27,8 @@ Requirements
 Your Mission
 
 Recreate the following layout in HTML and CSS:
-forms.gif
+
+
 Additional Resources
 
     http://learnlayout.com/
