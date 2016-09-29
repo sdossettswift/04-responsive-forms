@@ -8,12 +8,12 @@
   height: 100%;
   border: 1px solid aliceblue;
   border-radius: 5px;
-  padding: 10px;
+  padding: 20px;
   font-size: 0;
   text-align: justify;
 }
 
-.form-input < {
+.form-input > {
   color: #336E7B;
 }
 
@@ -27,7 +27,6 @@
   font-size: medium;
   text-align: left;
   min-width: 30%;
-
 }
 
 .grid:after{
@@ -36,7 +35,7 @@
   width: 100%;
 }
 
-input{
+input {
   color: aliceblue;
   background-color: #336E7B;
   width: 100%;
