@@ -3,10 +3,8 @@
   color: aliceblue;
 }
 
-
 .grid{
   background-color: #336E7B;
-  min-height: 90vh;
   height: 100%;
   border: 1px solid aliceblue;
   border-radius: 5px;
@@ -17,7 +15,6 @@
 
 .form-input < {
   color: #336E7B;
-
 }
 
 *, *:before, *:after {
@@ -29,6 +26,8 @@
   display: inline-block;
   font-size: medium;
   text-align: left;
+  min-width: 30%;
+
 }
 
 .grid:after{
@@ -36,7 +35,6 @@
   display: inline-block;
   width: 100%;
 }
-
 
 input{
   color: aliceblue;
